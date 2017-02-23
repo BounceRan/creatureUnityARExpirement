@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="elephant4" size="4.000000 2.285714" />
+    <ImageTarget name="grass3" size="4.000000 4.554080" />
+    <ImageTarget name="fish4_Fish" size="4.000000 2.285714" />
+    <ImageTarget name="shrimp4" size="4.000000 4.554080" />
+    <ImageTarget name="shrimp3" size="4.000000 4.554080" />
+    <ImageTarget name="hay3" size="4.000000 4.554080" />
+    <ImageTarget name="fish3_Fish" size="4.000000 2.285714" />
+    <ImageTarget name="shrimp2" size="4.000000 4.554080" />
+    <ImageTarget name="hay2" size="4.000000 4.554080" />
+    <ImageTarget name="grass2" size="4.000000 4.554080" />
+    <ImageTarget name="fish_pattern2" size="4.000000 2.285714" />
+    <ImageTarget name="elephant_pattern2" size="4.000000 2.285714" />
+    <ImageTarget name="water" size="4.000000 4.554080" />
+    <ImageTarget name="shrimp" size="4.000000 4.554080" />
+    <ImageTarget name="hay" size="4.000000 4.554080" />
+    <ImageTarget name="grass" size="4.000000 4.554080" />
+    <ImageTarget name="fish_pattern" size="4.000000 2.285714" />
+    <ImageTarget name="elephant_pattern" size="4.000000 2.285714" />
+  </Tracking>
+</QCARConfig>

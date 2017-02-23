@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="rubix5a" size="3.000000 3.105469" />
+    <ImageTarget name="prattcard" size="3.000000 5.435567" />
+    <ImageTarget name="metrocard" size="3.000000 4.646809" />
+    <ImageTarget name="joker" size="4.000000 6.182590" />
+    <ImageTarget name="yijiaofront" size="4.000000 1.459241" />
+    <ImageTarget name="yijiaoback" size="4.000000 1.789731" />
+  </Tracking>
+</QCARConfig>

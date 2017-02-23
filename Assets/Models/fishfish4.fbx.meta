@@ -1,0 +1,1835 @@
+fileFormatVersion: 2
+guid: becacac2658c943e3849c5aa7483e68f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Back
+    100002: BackFin
+    100004: Body
+    100006: bodyMoverA
+    100008: bodyMoverB
+    100010: bodyMoverC
+    100012: BottomFin_Lt
+    100014: BottomFin_Rt
+    100016: BottomTail
+    100018: curve2
+    100020: curve2BaseWire
+    100022: Eye_R
+    100024: Eye_R1
+    100026: eyeGRP
+    100028: Fill
+    100030: Fish
+    100032: FishCON_GRP
+    100034: //RootNode
+    100036: fishHead
+    100038: FrontFin_Lt
+    100040: FrontFin_Rt
+    100042: GO_FISH
+    100044: group1
+    100046: group2
+    100048: Head1
+    100050: ikHandle1
+    100052: Jaw
+    100054: jaw
+    100056: joint20
+    100058: joint21
+    100060: joint22
+    100062: joint23
+    100064: joint24
+    100066: joint25
+    100068: joint26
+    100070: joint27
+    100072: joint28
+    100074: joint29
+    100076: joint30
+    100078: joint31
+    100080: joint32
+    100082: joint47
+    100084: joint49
+    100086: joint50
+    100088: Key
+    100090: Lites
+    100092: locator1
+    100094: locator2
+    100096: locator3
+    100098: nurbsCircle4
+    100100: R_ftronfin1
+    100102: R_ftronfin10
+    100104: R_ftronfin11
+    100106: R_ftronfin12
+    100108: R_ftronfin13
+    100110: R_ftronfin14
+    100112: R_ftronfin2
+    100114: R_ftronfin3
+    100116: R_ftronfin4
+    100118: R_ftronfin5
+    100120: R_ftronfin6
+    100122: R_ftronfin7
+    100124: R_ftronfin8
+    100126: R_ftronfin9
+    100128: R_midFin1
+    100130: R_midFin2
+    100132: R_midFin3
+    100134: R_midFin4
+    100136: R_midFin5
+    100138: R_midFin6
+    100140: sine1Handle
+    100142: spine
+    100144: spine1
+    100146: spine10
+    100148: spine2
+    100150: spine3
+    100152: spine4
+    100154: spine5
+    100156: spine6
+    100158: spine7
+    100160: spine8
+    100162: spine9
+    100164: spinecurve
+    100166: tail1
+    100168: tail10
+    100170: tail11
+    100172: tail2
+    100174: tail3
+    100176: tail4
+    100178: tail5
+    100180: tail6
+    100182: tail7
+    100184: tail8
+    100186: tail9
+    100188: TailFin
+    100190: Tongue
+    100192: TopTailFin
+    400000: Back
+    400002: BackFin
+    400004: Body
+    400006: bodyMoverA
+    400008: bodyMoverB
+    400010: bodyMoverC
+    400012: BottomFin_Lt
+    400014: BottomFin_Rt
+    400016: BottomTail
+    400018: curve2
+    400020: curve2BaseWire
+    400022: Eye_R
+    400024: Eye_R1
+    400026: eyeGRP
+    400028: Fill
+    400030: Fish
+    400032: FishCON_GRP
+    400034: //RootNode
+    400036: fishHead
+    400038: FrontFin_Lt
+    400040: FrontFin_Rt
+    400042: GO_FISH
+    400044: group1
+    400046: group2
+    400048: Head1
+    400050: ikHandle1
+    400052: Jaw
+    400054: jaw
+    400056: joint20
+    400058: joint21
+    400060: joint22
+    400062: joint23
+    400064: joint24
+    400066: joint25
+    400068: joint26
+    400070: joint27
+    400072: joint28
+    400074: joint29
+    400076: joint30
+    400078: joint31
+    400080: joint32
+    400082: joint47
+    400084: joint49
+    400086: joint50
+    400088: Key
+    400090: Lites
+    400092: locator1
+    400094: locator2
+    400096: locator3
+    400098: nurbsCircle4
+    400100: R_ftronfin1
+    400102: R_ftronfin10
+    400104: R_ftronfin11
+    400106: R_ftronfin12
+    400108: R_ftronfin13
+    400110: R_ftronfin14
+    400112: R_ftronfin2
+    400114: R_ftronfin3
+    400116: R_ftronfin4
+    400118: R_ftronfin5
+    400120: R_ftronfin6
+    400122: R_ftronfin7
+    400124: R_ftronfin8
+    400126: R_ftronfin9
+    400128: R_midFin1
+    400130: R_midFin2
+    400132: R_midFin3
+    400134: R_midFin4
+    400136: R_midFin5
+    400138: R_midFin6
+    400140: sine1Handle
+    400142: spine
+    400144: spine1
+    400146: spine10
+    400148: spine2
+    400150: spine3
+    400152: spine4
+    400154: spine5
+    400156: spine6
+    400158: spine7
+    400160: spine8
+    400162: spine9
+    400164: spinecurve
+    400166: tail1
+    400168: tail10
+    400170: tail11
+    400172: tail2
+    400174: tail3
+    400176: tail4
+    400178: tail5
+    400180: tail6
+    400182: tail7
+    400184: tail8
+    400186: tail9
+    400188: TailFin
+    400190: Tongue
+    400192: TopTailFin
+    2300000: Eye_R
+    2300002: Eye_R1
+    2300004: Tongue
+    3300000: Eye_R
+    3300002: Eye_R1
+    3300004: Tongue
+    4300000: FrontFin_Rt
+    4300002: FrontFin_Lt
+    4300004: BottomFin_Rt
+    4300006: BottomFin_Lt
+    4300008: BackFin
+    4300010: TopTailFin
+    4300012: TailFin
+    4300014: BottomTail
+    4300016: Body
+    4300018: Tongue
+    4300020: Eye_R
+    4300022: Eye_R1
+    7400000: All
+    7400002: Swim Fast
+    7400004: Eating
+    7400006: Turn Right
+    7400008: Turn Left
+    7400010: Swim Slow
+    7400012: Struggle
+    9500000: //RootNode
+    13700000: BackFin
+    13700002: Body
+    13700004: BottomFin_Lt
+    13700006: BottomFin_Rt
+    13700008: BottomTail
+    13700010: FrontFin_Lt
+    13700012: FrontFin_Rt
+    13700014: TailFin
+    13700016: TopTailFin
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: All
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 1200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve2BaseWire
+        weight: 1
+      - path: Fish
+        weight: 1
+      - path: Fish/BackFin
+        weight: 1
+      - path: Fish/Body
+        weight: 1
+      - path: Fish/BottomFin_Lt
+        weight: 1
+      - path: Fish/BottomFin_Rt
+        weight: 1
+      - path: Fish/BottomTail
+        weight: 1
+      - path: Fish/eyeGRP
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R1
+        weight: 1
+      - path: Fish/FrontFin_Lt
+        weight: 1
+      - path: Fish/FrontFin_Rt
+        weight: 1
+      - path: Fish/TailFin
+        weight: 1
+      - path: Fish/Tongue
+        weight: 1
+      - path: Fish/TopTailFin
+        weight: 1
+      - path: FishCON_GRP
+        weight: 1
+      - path: FishCON_GRP/bodyMoverA
+        weight: 1
+      - path: FishCON_GRP/bodyMoverB
+        weight: 1
+      - path: FishCON_GRP/bodyMoverC
+        weight: 1
+      - path: GO_FISH
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Jaw
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/fishHead
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: Lites
+        weight: 1
+      - path: Lites/Back
+        weight: 1
+      - path: Lites/Fill
+        weight: 1
+      - path: Lites/Key
+        weight: 1
+      - path: locator1
+        weight: 1
+      - path: locator2
+        weight: 1
+      - path: locator3
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/Head1
+        weight: 1
+      - path: spine/Head1/jaw
+        weight: 1
+      - path: spine/Head1/jaw/joint49
+        weight: 1
+      - path: spine/Head1/jaw/joint49/joint50
+        weight: 1
+      - path: spine/Head1/joint47
+        weight: 1
+      - path: spine/R_ftronfin1
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2/R_ftronfin3
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4/R_ftronfin5
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6/R_ftronfin7
+        weight: 1
+      - path: spine/R_ftronfin8
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9/R_ftronfin10
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11/R_ftronfin12
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13/R_ftronfin14
+        weight: 1
+      - path: spine/spine1
+        weight: 1
+      - path: spine/spine1/spine2
+        weight: 1
+      - path: spine/spine1/spine2/spine3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21/joint22
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23/joint24
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2/R_midFin3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5/R_midFin6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26/joint27
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29/joint30
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31/joint32
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6/tail7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10/tail11
+        weight: 1
+      - path: spinecurve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Swim Fast
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve2BaseWire
+        weight: 1
+      - path: Fish
+        weight: 1
+      - path: Fish/BackFin
+        weight: 1
+      - path: Fish/Body
+        weight: 1
+      - path: Fish/BottomFin_Lt
+        weight: 1
+      - path: Fish/BottomFin_Rt
+        weight: 1
+      - path: Fish/BottomTail
+        weight: 1
+      - path: Fish/eyeGRP
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R1
+        weight: 1
+      - path: Fish/FrontFin_Lt
+        weight: 1
+      - path: Fish/FrontFin_Rt
+        weight: 1
+      - path: Fish/TailFin
+        weight: 1
+      - path: Fish/Tongue
+        weight: 1
+      - path: Fish/TopTailFin
+        weight: 1
+      - path: FishCON_GRP
+        weight: 1
+      - path: FishCON_GRP/bodyMoverA
+        weight: 1
+      - path: FishCON_GRP/bodyMoverB
+        weight: 1
+      - path: FishCON_GRP/bodyMoverC
+        weight: 1
+      - path: GO_FISH
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Jaw
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/fishHead
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: Lites
+        weight: 1
+      - path: Lites/Back
+        weight: 1
+      - path: Lites/Fill
+        weight: 1
+      - path: Lites/Key
+        weight: 1
+      - path: locator1
+        weight: 1
+      - path: locator2
+        weight: 1
+      - path: locator3
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/Head1
+        weight: 1
+      - path: spine/Head1/jaw
+        weight: 1
+      - path: spine/Head1/jaw/joint49
+        weight: 1
+      - path: spine/Head1/jaw/joint49/joint50
+        weight: 1
+      - path: spine/Head1/joint47
+        weight: 1
+      - path: spine/R_ftronfin1
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2/R_ftronfin3
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4/R_ftronfin5
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6/R_ftronfin7
+        weight: 1
+      - path: spine/R_ftronfin8
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9/R_ftronfin10
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11/R_ftronfin12
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13/R_ftronfin14
+        weight: 1
+      - path: spine/spine1
+        weight: 1
+      - path: spine/spine1/spine2
+        weight: 1
+      - path: spine/spine1/spine2/spine3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21/joint22
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23/joint24
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2/R_midFin3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5/R_midFin6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26/joint27
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29/joint30
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31/joint32
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6/tail7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10/tail11
+        weight: 1
+      - path: spinecurve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Eating
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 400
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .672727287
+        functionName: fishEatingEnd
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve2BaseWire
+        weight: 1
+      - path: Fish
+        weight: 1
+      - path: Fish/BackFin
+        weight: 1
+      - path: Fish/Body
+        weight: 1
+      - path: Fish/BottomFin_Lt
+        weight: 1
+      - path: Fish/BottomFin_Rt
+        weight: 1
+      - path: Fish/BottomTail
+        weight: 1
+      - path: Fish/eyeGRP
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R1
+        weight: 1
+      - path: Fish/FrontFin_Lt
+        weight: 1
+      - path: Fish/FrontFin_Rt
+        weight: 1
+      - path: Fish/TailFin
+        weight: 1
+      - path: Fish/Tongue
+        weight: 1
+      - path: Fish/TopTailFin
+        weight: 1
+      - path: FishCON_GRP
+        weight: 1
+      - path: FishCON_GRP/bodyMoverA
+        weight: 1
+      - path: FishCON_GRP/bodyMoverB
+        weight: 1
+      - path: FishCON_GRP/bodyMoverC
+        weight: 1
+      - path: GO_FISH
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Jaw
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/fishHead
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: Lites
+        weight: 1
+      - path: Lites/Back
+        weight: 1
+      - path: Lites/Fill
+        weight: 1
+      - path: Lites/Key
+        weight: 1
+      - path: locator1
+        weight: 1
+      - path: locator2
+        weight: 1
+      - path: locator3
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/Head1
+        weight: 1
+      - path: spine/Head1/jaw
+        weight: 1
+      - path: spine/Head1/jaw/joint49
+        weight: 1
+      - path: spine/Head1/jaw/joint49/joint50
+        weight: 1
+      - path: spine/Head1/joint47
+        weight: 1
+      - path: spine/R_ftronfin1
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2/R_ftronfin3
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4/R_ftronfin5
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6/R_ftronfin7
+        weight: 1
+      - path: spine/R_ftronfin8
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9/R_ftronfin10
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11/R_ftronfin12
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13/R_ftronfin14
+        weight: 1
+      - path: spine/spine1
+        weight: 1
+      - path: spine/spine1/spine2
+        weight: 1
+      - path: spine/spine1/spine2/spine3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21/joint22
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23/joint24
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2/R_midFin3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5/R_midFin6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26/joint27
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29/joint30
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31/joint32
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6/tail7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10/tail11
+        weight: 1
+      - path: spinecurve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Turn Right
+      takeName: Take 001
+      firstFrame: 400
+      lastFrame: 500
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve2BaseWire
+        weight: 1
+      - path: Fish
+        weight: 1
+      - path: Fish/BackFin
+        weight: 1
+      - path: Fish/Body
+        weight: 1
+      - path: Fish/BottomFin_Lt
+        weight: 1
+      - path: Fish/BottomFin_Rt
+        weight: 1
+      - path: Fish/BottomTail
+        weight: 1
+      - path: Fish/eyeGRP
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R1
+        weight: 1
+      - path: Fish/FrontFin_Lt
+        weight: 1
+      - path: Fish/FrontFin_Rt
+        weight: 1
+      - path: Fish/TailFin
+        weight: 1
+      - path: Fish/Tongue
+        weight: 1
+      - path: Fish/TopTailFin
+        weight: 1
+      - path: FishCON_GRP
+        weight: 1
+      - path: FishCON_GRP/bodyMoverA
+        weight: 1
+      - path: FishCON_GRP/bodyMoverB
+        weight: 1
+      - path: FishCON_GRP/bodyMoverC
+        weight: 1
+      - path: GO_FISH
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Jaw
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/fishHead
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: Lites
+        weight: 1
+      - path: Lites/Back
+        weight: 1
+      - path: Lites/Fill
+        weight: 1
+      - path: Lites/Key
+        weight: 1
+      - path: locator1
+        weight: 1
+      - path: locator2
+        weight: 1
+      - path: locator3
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/Head1
+        weight: 1
+      - path: spine/Head1/jaw
+        weight: 1
+      - path: spine/Head1/jaw/joint49
+        weight: 1
+      - path: spine/Head1/jaw/joint49/joint50
+        weight: 1
+      - path: spine/Head1/joint47
+        weight: 1
+      - path: spine/R_ftronfin1
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2/R_ftronfin3
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4/R_ftronfin5
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6/R_ftronfin7
+        weight: 1
+      - path: spine/R_ftronfin8
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9/R_ftronfin10
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11/R_ftronfin12
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13/R_ftronfin14
+        weight: 1
+      - path: spine/spine1
+        weight: 1
+      - path: spine/spine1/spine2
+        weight: 1
+      - path: spine/spine1/spine2/spine3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21/joint22
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23/joint24
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2/R_midFin3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5/R_midFin6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26/joint27
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29/joint30
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31/joint32
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6/tail7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10/tail11
+        weight: 1
+      - path: spinecurve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Turn Left
+      takeName: Take 001
+      firstFrame: 500
+      lastFrame: 600
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve2BaseWire
+        weight: 1
+      - path: Fish
+        weight: 1
+      - path: Fish/BackFin
+        weight: 1
+      - path: Fish/Body
+        weight: 1
+      - path: Fish/BottomFin_Lt
+        weight: 1
+      - path: Fish/BottomFin_Rt
+        weight: 1
+      - path: Fish/BottomTail
+        weight: 1
+      - path: Fish/eyeGRP
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R1
+        weight: 1
+      - path: Fish/FrontFin_Lt
+        weight: 1
+      - path: Fish/FrontFin_Rt
+        weight: 1
+      - path: Fish/TailFin
+        weight: 1
+      - path: Fish/Tongue
+        weight: 1
+      - path: Fish/TopTailFin
+        weight: 1
+      - path: FishCON_GRP
+        weight: 1
+      - path: FishCON_GRP/bodyMoverA
+        weight: 1
+      - path: FishCON_GRP/bodyMoverB
+        weight: 1
+      - path: FishCON_GRP/bodyMoverC
+        weight: 1
+      - path: GO_FISH
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Jaw
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/fishHead
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: Lites
+        weight: 1
+      - path: Lites/Back
+        weight: 1
+      - path: Lites/Fill
+        weight: 1
+      - path: Lites/Key
+        weight: 1
+      - path: locator1
+        weight: 1
+      - path: locator2
+        weight: 1
+      - path: locator3
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/Head1
+        weight: 1
+      - path: spine/Head1/jaw
+        weight: 1
+      - path: spine/Head1/jaw/joint49
+        weight: 1
+      - path: spine/Head1/jaw/joint49/joint50
+        weight: 1
+      - path: spine/Head1/joint47
+        weight: 1
+      - path: spine/R_ftronfin1
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2/R_ftronfin3
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4/R_ftronfin5
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6/R_ftronfin7
+        weight: 1
+      - path: spine/R_ftronfin8
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9/R_ftronfin10
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11/R_ftronfin12
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13/R_ftronfin14
+        weight: 1
+      - path: spine/spine1
+        weight: 1
+      - path: spine/spine1/spine2
+        weight: 1
+      - path: spine/spine1/spine2/spine3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21/joint22
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23/joint24
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2/R_midFin3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5/R_midFin6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26/joint27
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29/joint30
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31/joint32
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6/tail7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10/tail11
+        weight: 1
+      - path: spinecurve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Swim Slow
+      takeName: Take 001
+      firstFrame: 600
+      lastFrame: 1000
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve2BaseWire
+        weight: 1
+      - path: Fish
+        weight: 1
+      - path: Fish/BackFin
+        weight: 1
+      - path: Fish/Body
+        weight: 1
+      - path: Fish/BottomFin_Lt
+        weight: 1
+      - path: Fish/BottomFin_Rt
+        weight: 1
+      - path: Fish/BottomTail
+        weight: 1
+      - path: Fish/eyeGRP
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R1
+        weight: 1
+      - path: Fish/FrontFin_Lt
+        weight: 1
+      - path: Fish/FrontFin_Rt
+        weight: 1
+      - path: Fish/TailFin
+        weight: 1
+      - path: Fish/Tongue
+        weight: 1
+      - path: Fish/TopTailFin
+        weight: 1
+      - path: FishCON_GRP
+        weight: 1
+      - path: FishCON_GRP/bodyMoverA
+        weight: 1
+      - path: FishCON_GRP/bodyMoverB
+        weight: 1
+      - path: FishCON_GRP/bodyMoverC
+        weight: 1
+      - path: GO_FISH
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Jaw
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/fishHead
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: Lites
+        weight: 1
+      - path: Lites/Back
+        weight: 1
+      - path: Lites/Fill
+        weight: 1
+      - path: Lites/Key
+        weight: 1
+      - path: locator1
+        weight: 1
+      - path: locator2
+        weight: 1
+      - path: locator3
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/Head1
+        weight: 1
+      - path: spine/Head1/jaw
+        weight: 1
+      - path: spine/Head1/jaw/joint49
+        weight: 1
+      - path: spine/Head1/jaw/joint49/joint50
+        weight: 1
+      - path: spine/Head1/joint47
+        weight: 1
+      - path: spine/R_ftronfin1
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2/R_ftronfin3
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4/R_ftronfin5
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6/R_ftronfin7
+        weight: 1
+      - path: spine/R_ftronfin8
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9/R_ftronfin10
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11/R_ftronfin12
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13/R_ftronfin14
+        weight: 1
+      - path: spine/spine1
+        weight: 1
+      - path: spine/spine1/spine2
+        weight: 1
+      - path: spine/spine1/spine2/spine3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21/joint22
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23/joint24
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2/R_midFin3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5/R_midFin6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26/joint27
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29/joint30
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31/joint32
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6/tail7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10/tail11
+        weight: 1
+      - path: spinecurve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Struggle
+      takeName: Take 001
+      firstFrame: 1000
+      lastFrame: 1200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve2BaseWire
+        weight: 1
+      - path: Fish
+        weight: 1
+      - path: Fish/BackFin
+        weight: 1
+      - path: Fish/Body
+        weight: 1
+      - path: Fish/BottomFin_Lt
+        weight: 1
+      - path: Fish/BottomFin_Rt
+        weight: 1
+      - path: Fish/BottomTail
+        weight: 1
+      - path: Fish/eyeGRP
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R
+        weight: 1
+      - path: Fish/eyeGRP/Eye_R1
+        weight: 1
+      - path: Fish/FrontFin_Lt
+        weight: 1
+      - path: Fish/FrontFin_Rt
+        weight: 1
+      - path: Fish/TailFin
+        weight: 1
+      - path: Fish/Tongue
+        weight: 1
+      - path: Fish/TopTailFin
+        weight: 1
+      - path: FishCON_GRP
+        weight: 1
+      - path: FishCON_GRP/bodyMoverA
+        weight: 1
+      - path: FishCON_GRP/bodyMoverB
+        weight: 1
+      - path: FishCON_GRP/bodyMoverC
+        weight: 1
+      - path: GO_FISH
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/Jaw
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/fishHead
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: Lites
+        weight: 1
+      - path: Lites/Back
+        weight: 1
+      - path: Lites/Fill
+        weight: 1
+      - path: Lites/Key
+        weight: 1
+      - path: locator1
+        weight: 1
+      - path: locator2
+        weight: 1
+      - path: locator3
+        weight: 1
+      - path: nurbsCircle4
+        weight: 1
+      - path: sine1Handle
+        weight: 1
+      - path: spine
+        weight: 1
+      - path: spine/Head1
+        weight: 1
+      - path: spine/Head1/jaw
+        weight: 1
+      - path: spine/Head1/jaw/joint49
+        weight: 1
+      - path: spine/Head1/jaw/joint49/joint50
+        weight: 1
+      - path: spine/Head1/joint47
+        weight: 1
+      - path: spine/R_ftronfin1
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin2/R_ftronfin3
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin4/R_ftronfin5
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6
+        weight: 1
+      - path: spine/R_ftronfin1/R_ftronfin6/R_ftronfin7
+        weight: 1
+      - path: spine/R_ftronfin8
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin9/R_ftronfin10
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin11/R_ftronfin12
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13
+        weight: 1
+      - path: spine/R_ftronfin8/R_ftronfin13/R_ftronfin14
+        weight: 1
+      - path: spine/spine1
+        weight: 1
+      - path: spine/spine1/spine2
+        weight: 1
+      - path: spine/spine1/spine2/spine3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint21/joint22
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23
+        weight: 1
+      - path: spine/spine1/spine2/spine3/joint20/joint23/joint24
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin1/R_midFin2/R_midFin3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/R_midFin4/R_midFin5/R_midFin6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/joint25/joint26/joint27
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint29/joint30
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/joint28/joint31/joint32
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail2/tail3/tail4
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail5/tail6/tail7
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10
+        weight: 1
+      - path: spine/spine1/spine2/spine3/spine4/spine5/spine6/spine7/spine8/spine9/spine10/tail1/tail8/tail9/tail10/tail11
+        weight: 1
+      - path: spinecurve
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

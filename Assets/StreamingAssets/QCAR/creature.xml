@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="fish_water" size="2.500000 2.857143" />
+    <ImageTarget name="fish_food" size="2.500000 2.857143" />
+    <ImageTarget name="ele_grass" size="2.500000 2.857143" />
+    <ImageTarget name="ele_food" size="2.500000 2.857143" />
+    <ImageTarget name="fish" size="5.000000 2.857143" />
+    <ImageTarget name="elephant" size="5.000000 2.857143" />
+    <ImageTarget name="dan_ele" size="5.000000 2.812500" />
+    <ImageTarget name="c_fish_ele" size="5.000000 3.125000" />
+    <ImageTarget name="elephantTrigger" size="100.000000 62.500000" />
+  </Tracking>
+</QCARConfig>
